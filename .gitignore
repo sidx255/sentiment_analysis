@@ -1,0 +1,5 @@
+node_modules
+*.h5
+*.csv
+test_training.ipynb
+try
